@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+locale                   : "ko-KR"
+title                    : "환영 블로그"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JunNyeong Jeong"
+name                     : "Hwan0"
 description              : "An amazing website."
 url                      : "https://JN-Jeong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JunNyeong Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jjn00712@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://JN-Jeong.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/JN-Jeong"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
